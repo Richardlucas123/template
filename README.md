@@ -1,2 +1,0 @@
-# outlawkings
-code
